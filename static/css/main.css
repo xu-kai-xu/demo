@@ -1,0 +1,27 @@
+body {
+    font-family: 'sans-serif';
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+#result {
+    color: blue;
+}
+
+.keyword {
+    font-weight: bold;
+    color: red;
+}
+
+.container {
+    margin: 2em;
+}
+
